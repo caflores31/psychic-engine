@@ -1,0 +1,29 @@
+{
+  "name": "the-tech-blog",
+  "version": "1.0.0",
+  "description": "tech-blog",
+  "main": "server.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caflores31/psychic-engine.git"
+  },
+  "author": "CFA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caflores31/psychic-engine/issues"
+  },
+  "homepage": "https://github.com/caflores31/psychic-engine#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "sequelize": "^6.6.2"
+  }
+}
