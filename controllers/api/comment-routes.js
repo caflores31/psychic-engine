@@ -9,7 +9,7 @@ router.get('/', (req, res) => {
             res.status(500).json(err);
         })
 });
-
+//Get all the comments 
 router.get('/:id', (req, res) => {
     Comment.findAll({
             where: {

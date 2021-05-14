@@ -1,7 +1,7 @@
 {
-  "name": "the-tech-blog",
+  "name": "mvc-tech-blog",
   "version": "1.0.0",
-  "description": "tech-blog",
+  "description": "CMS-style blog for developers to publish their blog posts and comment on other developer's posts",
   "main": "server.js",
   "directories": {
     "doc": "doc"
