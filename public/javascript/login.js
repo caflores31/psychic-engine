@@ -1,6 +1,4 @@
-//  login submission 
-
-
+// Login
 async function loginFormHandler(event) {
     event.preventDefault();
   

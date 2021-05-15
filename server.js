@@ -1,3 +1,5 @@
+// Dependencies
+// ==============================================
 const express = require('express');
 const routes = require('./controllers');
 const sequelize = require('./config/connection');
@@ -35,5 +37,7 @@ app.set('view engine', 'handlebars');
 
 app.use(routes);
 sequelize.sync({ force: false }).then(() => {
+// Starts the server to begin listening
+// =============================================================
     app.listen(PORT, () => console.log('Now listening'));
 });
