@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 
 ## User Story
 
@@ -71,7 +71,7 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 * [Express](https://expressjs.com/)
 * [Handlebars](https://www.npmjs.com/package/handlebars)
 * [Dotenv](https://www.npmjs.com/package/dotenv)
-* [Mysql] (https://www.mysql.com/)
+* [Mysql](https://www.mysql.com/)
 
 
 
@@ -86,10 +86,10 @@ To get a local copy up and running follow these simple steps.
 * Run Test;
 npm run test
 
-Seed DB;
+* Seed DB;
 npm run seed
 
-Start Server;
+* Start Server;
 npm start server
 
 ### Installation
@@ -107,14 +107,15 @@ npm start server
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-*will insert demo later
+<img src="images/Techblog.png">
 
 
-<!-- ROADMAP -->
-## Roadmap
+<!-- Application Link -->
+## Application Link 
+
+Local heroku - http://localhost:5000/
 
 See the [open issues](https://github.com/caflores31/psychic-engine/issues) for a list of proposed features (and known issues).
-
 
 
 <!-- CONTRIBUTING -->
